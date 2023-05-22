@@ -1,8 +1,8 @@
-# Resume
+<!-- # Resume -->
 
-<div align=center>
+<!-- <div align=center>
     <img width=80% style=margin:2% src="assets/banner.drawio.svg">
-</div>
+</div> -->
 
 ## Publications
 

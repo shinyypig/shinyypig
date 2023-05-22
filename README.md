@@ -19,7 +19,7 @@
 2. [Simple Paper](https://github.com/shinyypig/Simple-Paper)
 3. [Simple Beamer](https://github.com/shinyypig/Simple-Beamer)
 
-## Github
+## Stats
 
 <div align=center>
     <a  href="https://github.com/shinyypig"><img width=50% style=margin:2% src="https://github-readme-stats.vercel.app/api?username=shinyypig&show_icons=true&theme=transparent"></a>

@@ -23,6 +23,7 @@ My research interests include:
 1. [Hyperspectral Image Toolbox](https://github.com/shinyypig/hyperspectral_image_toolbox)
 2. [Simple Paper](https://github.com/shinyypig/Simple-Paper)
 3. [Simple Beamer](https://github.com/shinyypig/Simple-Beamer)
+4. [Git Blog](https://github.com/shinyypig/git-blog)
 
 ## Stats
 

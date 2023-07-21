@@ -5,7 +5,7 @@ My name is Liangliang Zhu, a Ph.D. from UCAS. My research interests include:
 - hyperspectral image processing
 - computer vision
 - machine learning
-- atrix theory
+- matrix theory
 
 ## Publications
 

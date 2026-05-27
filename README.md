@@ -24,10 +24,3 @@ My name is Liangliang Zhu, a Ph.D. from UCAS. My research interests include:
 2. [Simple Paper](https://github.com/shinyypig/Simple-Paper)
 3. [Simple Beamer](https://github.com/shinyypig/Simple-Beamer)
 4. [Git Blog](https://github.com/shinyypig/git-blog)
-
-## Stats
-
-<div align=center>
-    <a  href="https://github.com/shinyypig"><img width=50% style=margin:2% src="https://github-readme-stats.vercel.app/api?username=shinyypig&show_icons=true&theme=transparent"></a>
-    <a  href="https://github.com/shinyypig"><img width=38% style=margin:2% src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinyypig&theme=transparent&layout=compact"></a>
-</div>

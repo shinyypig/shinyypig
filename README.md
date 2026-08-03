@@ -8,7 +8,7 @@ My name is Liangliang Zhu, a Ph.D. from UCAS. My research interests include:
 - matrix theory
 
 ## Publications
-1. 1. Xiurui Geng and **Liangliang Zhu**. “Matrix Formula for Subpixel Image Registration.” Pattern Recognition, vol. 172, Elsevier BV, 2026, p. 112469. ([link](https://doi.org/10.1016/j.patcog.2025.112469))
+1. Xiurui Geng and **Liangliang Zhu**. “Matrix Formula for Subpixel Image Registration.” Pattern Recognition, vol. 172, Elsevier BV, 2026, p. 112469. ([link](https://doi.org/10.1016/j.patcog.2025.112469))
 1. **Liangliang Zhu**, Xinwen Zhu, and Xiurui Geng. “Factorized Multi-Graph Matching.” Pattern Recognition, vol. 140, Elsevier BV, 2023, p. 109597. ([link](https://www.sciencedirect.com/science/article/abs/pii/S0031320323002984), [code](https://github.com/shinyypig/fmgm))
 1. **Liangliang Zhu**, and Xiurui Geng. “A New Translation Matching Method Based on Autocorrelated Normalized Cross-Power Spectrum.” IEEE Transactions on Geoscience and Remote Sensing, vol. 59, no. 8, IEEE, 2021, pp. 6956–68. ([link](https://ieeexplore.ieee.org/document/9239293/), [code](https://github.com/shinyypig/ancps))
 1. **Liangliang Zhu**, Lei Wang, Luyan Ji, Weitun Yang, and Xiurui Geng. “Multiple Targets Inequality Constrained Energy Minimization for Multispectral Imagery.” Infrared Physics & Technology, vol. 110, Elsevier BV, 2020, p. 103465. ([link](https://www.sciencedirect.com/science/article/abs/pii/S1350449520305132), [code](https://github.com/shinyypig/mticem))
